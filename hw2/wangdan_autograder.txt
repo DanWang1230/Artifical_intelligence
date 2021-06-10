@@ -1,0 +1,49 @@
+FarmerFox formulation: 
+	20 out of 20 (Graded on comments, screen capture image and general structure of the code)
+
+Autograder Results: 
+	21 out of 30 for BFS 
+		1422 out of 2000 Worked correctly 
+		Found 0 exceptions 
+		Some incorrect values randomly sampled from all incorrect solutions (for the student's reference)
+			Graph edge list: [(0, 4), (0, 2), (0, 3), (1, 4), (1, 2), (1, 3), (2, 0), (2, 4), (3, 0), (3, 1), (3, 2), (4, 0), (4, 1), (4, 2), (4, 3)] 
+			Start Node: 1, Goal Node: 0 
+			Path found from BACKLINKS: [1, 2, 4, 0] 
+			Correct paths: [[1, 4, 0], [1, 3, 0], [1, 2, 0]]
+
+			Graph edge list: [(0, 5), (0, 1), (0, 2), (0, 4), (1, 0), (1, 5), (1, 2), (1, 4), (2, 1), (2, 5), (2, 4), (3, 1), (3, 2), (3, 5), (4, 0), (4, 1), (4, 2), (4, 3), (4, 5), (5, 0)] 
+			Start Node: 4, Goal Node: 2 
+			Path found from BACKLINKS: [4, 0, 1, 2] 
+			Correct paths: [[4, 2]]
+
+			Graph edge list: [(0, 6), (0, 1), (0, 4), (1, 6), (2, 3), (2, 4), (3, 6), (4, 3), (5, 1), (5, 2), (5, 3), (6, 0), (6, 1), (6, 3), (6, 4)] 
+			Start Node: 1, Goal Node: 4 
+			Path found from BACKLINKS: [1, 6, 0, 4] 
+			Correct paths: [[1, 6, 4]]
+
+			Graph edge list: [(0, 1), (0, 3), (1, 2), (1, 4), (1, 6), (2, 4), (3, 0), (3, 7), (3, 5), (4, 1), (4, 7), (5, 0), (5, 2), (5, 3), (5, 6), (6, 5), (7, 2), (7, 5), (7, 6)] 
+			Start Node: 1, Goal Node: 5 
+			Path found from BACKLINKS: [1, 2, 4, 7, 5] 
+			Correct paths: [[1, 6, 5]]
+
+			Graph edge list: [(0, 4), (1, 5), (1, 4), (2, 0), (2, 4), (3, 0), (3, 5), (3, 4), (4, 0), (4, 1), (4, 5), (5, 0), (5, 1), (5, 3)] 
+			Start Node: 1, Goal Node: 3 
+			Path found from BACKLINKS: [1, 4, 5, 3] 
+			Correct paths: [[1, 5, 3]]
+
+
+
+
+	30 out of 30 for UCS 
+		306 out of 306 Worked correctly 
+		Found 0 exceptions 
+		Some incorrect values randomly sampled from all incorrect solutions (for the student's reference)
+
+
+Score for BlindSearches.pdf: 
+	BFS:
+		5 out of 5 for the Missionaries and Cannibals
+		10 out of 10 for the Farmer, Fox, Chicken, and Grain
+		2 out of 5 for the 4-Disk Towers of Hanoi
+
+88 out of 100

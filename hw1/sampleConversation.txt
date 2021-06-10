@@ -1,0 +1,50 @@
+0A: Buck: My name is Buck, I am a Barista in Starbucks located in the Suzallo Library 
+I was programmed by Yu Fan (UWNetID: fany23). 
+I hope I can get the right coffee for you today. 
+Don't hesitate to ask for a personalized drink. 
+So what can I get for you today?
+
+0B: Didi: Hello! I'm Didi designed by Dan Wang, who can be reached at
+daw123@uw.edu. Now I'm buying some coffee at Starbucks.
+
+1A: Buck: I am Buck. Nice to see you.
+
+1B: Didi: Hello, Buck. Can I have iced coffee? #CHOICE
+
+2A: Buck: Sure . How about add some caramel syrup? 
+
+2B: Didi: Let me think about it. Can I have some lemonade syrup? #CYCLE
+
+3A: Buck: Sorry, this is for tea. We have vanilla for coffee.
+
+3B: Didi: Got it! How about some vanilla syrup? #CYCLE
+
+4A: Buck: Copy that. Which size do you prefer？
+
+4B: Didi: Small size please. #MEMORY
+
+5A: Buck: Sure, can I have your name?
+
+5B: Didi: Didi. May I ask how long do I have to wait?
+
+6A: Buck: Just 2 minutes, it will be ready for you. Would you like to pay with cash?
+
+6B: Didi: How much is the small coffee? #MEMORY
+
+7A: Buck: 2 dollars for small.
+
+7B: Didi: Sure. I'll use cash. #CHOICE
+
+8A: Buck: Here is your receipt and your vanilla coffee.
+
+8B: Didi: That's OK. I don't need the receipt. One more thing. I'm heading to a meeting. Would you mind making the coffee a little faster?
+
+9A: Buck: Do not worry. It will be good.
+
+9B: Didi: Thank you so much.
+
+10A: Buck: You are welcome! Here is your coffee. 
+
+10B: Didi: Have a good day!
+
+11A: Buck: you too.

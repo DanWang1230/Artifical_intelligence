@@ -1,0 +1,626 @@
+**** Baroque Chess Gamemaster v1.0-BETA *****
+The Gamemaster says, "Players, introduce yourselves."
+ (Playing WHITE:) I'm Donna Dude, new in Baroque Chess agent. I'm created by  Fan Yu (fany23) and Dan Wang (daw1230)
+ (Playing BLACK:) I'm Gary 23 from Vault 108
+
+The Gamemaster says, "Let's Play!"
+
+The initial state is...
+c l - w k - l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P P 
+F L - W K - L C 
+WHITE's move
+
+Time used in makeMove: 0.7902 seconds out of  1
+WHITE's move: the P at (6, 2) to (2, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 1: Move is by WHITE
+DD says: You have a clear advantage based on my evaluation. Well Done 
+c l - w k - l f 
+p p p p p p p p 
+- - P - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P - P P P P P 
+F L - W K - L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 38
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 39
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0093 seconds out of  1
+BLACK's move: the p at (1, 1) to (5, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 2: Move is by BLACK
+Gary says: Gray!
+c l - w k - l f 
+p - p p p p p p 
+- - P - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- p - - - - - - 
+P P - P P P P P 
+F L - W K - L C 
+WHITE's move
+
+Time used in makeMove: 0.7915 seconds out of  1
+WHITE's move: the P at (6, 0) to (2, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 3: Move is by WHITE
+DD says: I am kind of losing.
+c l - w k - l f 
+p - p p p p p p 
+P - P - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- p - - - - - - 
+- P - P P P P P 
+F L - W K - L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 48
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 49
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0128 seconds out of  1
+BLACK's move: the l at (0, 1) to (3, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 4: Move is by BLACK
+Gary says: Gray?
+c - - w k - l f 
+p - p p p p p p 
+P - P - - - - - 
+- l - - - - - - 
+- - - - - - - - 
+- p - - - - - - 
+- P - P P P P P 
+F L - W K - L C 
+WHITE's move
+
+Time used in makeMove: 0.7942 seconds out of  1
+WHITE's move: the P at (6, 5) to (7, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 5: Move is by WHITE
+DD says: Nice move.
+c - - w k - l f 
+p - p p p p p p 
+P - P - - - - - 
+- l - - - - - - 
+- - - - - - - - 
+- p - - - - - - 
+- P - P P - P P 
+F L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 58
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 59
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0161 seconds out of  1
+BLACK's move: the p at (1, 3) to (5, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 6: Move is by BLACK
+Gary says: Haha! Gary
+c - - w k - l f 
+p - p - p p p p 
+P - P - - - - - 
+- l - - - - - - 
+- - - - - - - - 
+- p - p - - - - 
+- P - P P - P P 
+F L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7296 seconds out of  1
+WHITE's move: the P at (6, 6) to (5, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 7: Move is by WHITE
+DD says: Well Done, Gary
+c - - w k - l f 
+p - p - p p p p 
+P - P - - - - - 
+- l - - - - - - 
+- - - - - - - - 
+- p - p - - P - 
+- P - P P - - P 
+F L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 61
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 62
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0230 seconds out of  1
+BLACK's move: the l at (3, 1) to (1, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 8: Move is by BLACK
+Gary says: Gary...
+c - - w k - l f 
+p - p l p p p p 
+P - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- p - p - - P - 
+- P - P P - - P 
+F L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7601 seconds out of  1
+WHITE's move: the P at (5, 6) to (6, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 9: Move is by WHITE
+DD says: You have a clear advantage based on my evaluation. Well Done 
+c - - w k - l f 
+p - p l p p p p 
+P - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- p - p - - - - 
+- P - P P - P P 
+F L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 68
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 69
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0167 seconds out of  1
+BLACK's move: the l at (1, 3) to (3, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 10: Move is by BLACK
+Gary says: Ah... Gary
+c - - w k - l f 
+p - p - p p p p 
+P - - - - - - - 
+- - - l - - - - 
+- - - - - - - - 
+- p - p - - - - 
+- P - P P - P P 
+F L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7923 seconds out of  1
+WHITE's move: the P at (6, 6) to (6, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 11: Move is by WHITE
+DD says: Good job.
+c - - w k - l f 
+p - p - p p p p 
+P - - - - - - - 
+- - - l - - - - 
+- - - - - - - - 
+- p - p - - - - 
+- P - P P P - P 
+F L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 73
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 74
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0193 seconds out of  1
+BLACK's move: the p at (1, 5) to (5, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 12: Move is by BLACK
+Gary says: Uh... Gary?
+c - - w k - l f 
+p - p - p - p p 
+P - - - - - - - 
+- - - l - - - - 
+- - - - - - - - 
+- p - p - p - - 
+- P - P P P - P 
+F L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7830 seconds out of  1
+WHITE's move: the F at (7, 0) to (4, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 13: Move is by WHITE
+DD says: Well Done, Gary
+c - - w k - l f 
+p - p - p - p p 
+P - - - - - - - 
+- - - l - - - - 
+F - - - - - - - 
+- p - p - p - - 
+- P - P P P - P 
+- L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 69
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 70
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0206 seconds out of  1
+BLACK's move: the p at (1, 6) to (3, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 14: Move is by BLACK
+Gary says: Gary!?!?
+c - - w k - l f 
+p - p - p - - p 
+P - - - - - - - 
+- - - l - - p - 
+F - - - - - - - 
+- p - p - p - - 
+- P - P P P - P 
+- L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7847 seconds out of  1
+WHITE's move: the F at (4, 0) to (1, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 15: Move is by WHITE
+DD says: I am kind of losing.
+c - - w k - l f 
+p - p F p - - p 
+P - - - - - - - 
+- - - l - - p - 
+- - - - - - - - 
+- p - p - p - - 
+- P - P P P - P 
+- L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 60
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 61
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0156 seconds out of  1
+BLACK's move: the f at (0, 7) to (3, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 16: Move is by BLACK
+Gary says: Um... Gary!
+c - - w k - l - 
+p - p F p - - p 
+P - - - - - - - 
+- - - l f - p - 
+- - - - - - - - 
+- p - p - p - - 
+- P - P P P - P 
+- L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7977 seconds out of  1
+WHITE's move: the P at (6, 7) to (4, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 17: Move is by WHITE
+DD says: Good job.
+c - - w k - l - 
+p - p F p - - p 
+P - - - - - - - 
+- - - l f - p - 
+- - - - - - - P 
+- p - p - p - - 
+- P - P P P - - 
+- L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 65
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 66
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0182 seconds out of  1
+BLACK's move: the c at (0, 0) to (1, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 18: Move is by BLACK
+Gary says: GARY~~~
+- - - w k - l - 
+p c p F p - - p 
+P - - - - - - - 
+- - - l f - p - 
+- - - - - - - P 
+- p - p - p - - 
+- P - P P P - - 
+- L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7826 seconds out of  1
+WHITE's move: the P at (4, 7) to (4, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 19: Move is by WHITE
+DD says: Well Done, Gary
+- - - w k - l - 
+p c p F p - - p 
+P - - - - - - - 
+- - - l f - p - 
+P - - - - - - - 
+- p - p - p - - 
+- P - P P P - - 
+- L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 68
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 69
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0343 seconds out of  1
+BLACK's move: the c at (1, 1) to (3, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 20: Move is by BLACK
+Gary says: ok Gary
+- - - w k - l - 
+p - p F p - - p 
+P - - - - - - - 
+- c - l f - p - 
+P - - - - - - - 
+- p - p - p - - 
+- P - P P P - - 
+- L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7614 seconds out of  1
+WHITE's move: the P at (6, 1) to (6, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 21: Move is by WHITE
+DD says: Nice move.
+- - - w k - l - 
+p - p F p - - p 
+P - - - - - - - 
+- c - l f - p - 
+P - - - - - - - 
+- p - p - p - - 
+P - - P P P - - 
+- L - W K P L C 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 71
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 72
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0190 seconds out of  1
+BLACK's move: the l at (0, 6) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 22: Move is by BLACK
+Gary says: Gray!
+- - - w k - - - 
+p - p F p - l p 
+P - - - - - - - 
+- c - l f - p - 
+P - - - - - - - 
+- p - p - p - - 
+P - - P P P - - 
+- L - W K P L C 
+WHITE's move
+
+Time used in makeMove: 0.7660 seconds out of  1
+WHITE's move: the C at (7, 7) to (4, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 23: Move is by WHITE
+DD says: Good job.
+- - - w k - - - 
+p - p F p - l p 
+P - - - - - - - 
+- c - l f - p - 
+P - - - - - - C 
+- p - p - p - - 
+P - - P P P - - 
+- L - W K P L - 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 65
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 66
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0171 seconds out of  1
+BLACK's move: the p at (1, 0) to (1, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 24: Move is by BLACK
+Gary says: Gray?
+- - - w k - - - 
+- p p F p - l p 
+P - - - - - - - 
+- c - l f - p - 
+P - - - - - - C 
+- p - p - p - - 
+P - - P P P - - 
+- L - W K P L - 
+WHITE's move
+
+Time used in makeMove: 0.7786 seconds out of  1
+WHITE's move: the C at (4, 7) to (3, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 25: Move is by WHITE
+DD says: I am kind of losing.
+- - - w k - - - 
+- p p F p - l p 
+P - - - - - - - 
+- c - l - - p C 
+P - - - - - - - 
+- p - p - p - - 
+P - - P P P - - 
+- L - W K P L - 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 55
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 56
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0138 seconds out of  1
+BLACK's move: the l at (1, 6) to (6, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 26: Move is by BLACK
+Gary says: Haha! Gary
+- - - w k - - - 
+- p p F p - - p 
+P - - - - - - - 
+- c - l - - p C 
+P - - - - - - - 
+- p - p - p - - 
+P l - P P P - - 
+- L - W K P L - 
+WHITE's move
+
+Time used in makeMove: 0.7893 seconds out of  1
+WHITE's move: the P at (6, 3) to (6, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 27: Move is by WHITE
+DD says: Well Done, Gary
+- - - w k - - - 
+- p p F p - - p 
+P - - - - - - - 
+- c - l - - p C 
+P - - - - - - - 
+- p - p - p - - 
+P - P - P P - - 
+- L - W K P L - 
+BLACK's move
+
+N_STATES_EXPANDED: 1
+N_STATIC_EVALS: 48
+N_CUTOFFS: 0
+move_put_count: 1
+move_get_success_count: 0
+move_get_failure_count: 49
+move_collision_count: 0
+move_static_evals_saved_count: 1
+Time used in makeMove: 0.0109 seconds out of  1
+BLACK's move: the p at (1, 7) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 28: Move is by BLACK
+Gary says: Gary...
+- - - w k - - - 
+- p p F p - p - 
+P - - - - - - - 
+- c - l - - p C 
+P - - - - - - - 
+- p - p - p - - 
+P - P - P P - - 
+- L - W K P L - 
+WHITE's move
+
+Time used in makeMove: 0.7811 seconds out of  1
+WHITE's move: the C at (3, 7) to (0, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 29: Move is by WHITE
+DD says: Nice move.
+- - - w - - - C 
+- p p F p - p - 
+P - - - - - - - 
+- c - l - - p - 
+P - - - - - - - 
+- p - p - p - - 
+P - P - P P - - 
+- L - W K P L - 
+BLACK's move
+
+Win for WHITE
+Game over.
+Congratulations to the winner: WHITE
